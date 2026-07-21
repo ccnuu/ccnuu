@@ -14,6 +14,7 @@
       <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40"/></td> -->
       <!-- <td><img src="https://raw.githubusercontent.com/ccnuu/img/refs/heads/main/c3c/c3c.svg" width="40" height="40"/></td> -->
       <!-- <td><img src="https://avatars.githubusercontent.com/u/34303136?s=200&v=4" width="40" height="40"/></td> -->
+      <td><img src="https://github.com/ccnuu/Explore_Ada/blob/main/ada_ccnuu.svg" width="40" height="40"/></td>
     </tr>
   </table>
 
