@@ -3,6 +3,8 @@
   ![][github-sub-title:img]
   
   ![](https://img.shields.io/badge/email-cy.arctique@gmail.com-blue)
+
+  <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
   
   <h3 align="center">Languages and Tools:</h3>
 
