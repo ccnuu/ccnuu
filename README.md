@@ -22,4 +22,6 @@
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Courgette&size=24&pause=1000&color=DC4CFF&center=true&vCenter=true&random=true&width=435&lines=ccnuu
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="1200" height="320" />
+<div align=center>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="720" height="640" />
+</div>
