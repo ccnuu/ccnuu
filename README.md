@@ -11,7 +11,7 @@
   <table align="center">
     <tr>
       <td><img src="./img/java.svg" width="40" height="40"/></td>
-      <td><img src="./img/ada_ccnuu.svg" width="40" height="40"/></td>
+      <td><img src="./img/cpp.svg" width="40" height="40"/></td>
       <td><img src="./img/godot.svg" width="40" height="40"/></td>
     </tr>
   </table>
